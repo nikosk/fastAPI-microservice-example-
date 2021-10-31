@@ -1,4 +1,4 @@
-This project is a proof of concept microservice written in Kotlin with FastAPI.
+This project is a proof of concept microservice written in Python with FastAPI.
 It was written to test if FastAPI is a good fit for writing microservices in a
 larger project.
 
